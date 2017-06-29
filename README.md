@@ -1,6 +1,6 @@
 # Pong Pygame
 
-A pong game powered by [Pygame][pygame].
+A pong game powered by [Pygame][1].
 
 ## Installation
 
@@ -25,4 +25,9 @@ Run the main script:
 $ python src/main.py
 ```
 
-[pygame]: http://pygame.org
+## License
+
+The package is available as open source under the terms of the [MIT License][2].
+
+[1]: http://pygame.org
+[2]: http://opensource.org/licenses/MIT
